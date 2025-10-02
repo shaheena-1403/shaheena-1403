@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋, I'm Shaheena
 
 <!--
 **shaheena-1403/shaheena-1403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently working on DevOps
+🌱 I’m currently learning advanced DevOps
+- 📫 How to reach me: https://www.linkedin.com/in/shaheena-shaik-ba26b2145/
+- 😄 Pronouns: she/her
